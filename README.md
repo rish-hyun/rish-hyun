@@ -1,15 +1,16 @@
-### Hi there, I'm Rishabh Sethi 👋
+### Hi there I'm Rishabh Sethi 👋
 
-I'm a AI/ML enthusiast, so you might find me making many projects.
-
-Also, I maintain Google Play Console for **CRUV: Technological consultancy and services** based on Flutter Applications.
+<!--
+**rish-hyun/rish-hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at RedCarpetUp
-- 🌱 I’m currently learning organization culture
-- 👯 I’m looking to collaborate on open-source project
-- 💬 Ask me about anything in flutter
-- 📫 How to reach me: Mail at rohandas2468@gmail.com
-- 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
